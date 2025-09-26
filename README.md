@@ -24,24 +24,27 @@ Seaborn / Matplotlib
 
 🛠️ Instalação
 1) Clonar o repositório
-git clone https://github.com/<usuario>/<repositorio>.git
+git clone https://github.com/<gustavioKutzke>/<voos>.git
+
 cd <repositorio>
 
-2) Dependências
+3) Dependências
 
 Com requirements.txt:
+
 pip install -r requirements.txt
+
 Ou diretamente:
 pip install streamlit pandas seaborn matplotlib
 
 📂 Estrutura
 Estrutura
 .
-├─ tela.py                  # app principal
+├─ tela.py                 
 
 ├─ requirements.txt
 
-├─ dataset/                 # dados de entrada (não versionados)
+├─ dataset/                
 
 │  ├─ merge_2022.csv
 
@@ -49,13 +52,13 @@ Estrutura
 
 │  ├─ merge_2024.csv
 
-│  ├─ merge_2025.csv       # opcional
+│  ├─ merge_2025.csv      
 
-│  ├─ airport-codes.csv    # opcional (nomes de aeroportos)
+│  ├─ airport-codes.csv   
 
-│  └─ airlines-codes.csv   # opcional (nomes de cias)
+│  └─ airlines-codes.csv  
 
-└─ docs/                    # opcional (imagens para o README)
+└─ docs/                   
 
 
 ▶️ Execução
