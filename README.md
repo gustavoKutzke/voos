@@ -67,7 +67,7 @@ Estrutura
 
 ▶️ Execução
 
-streamlit run tela.py
+python -m streamlit run tela.py
 
 A interface abrirá no navegador (ou use a URL exibida no terminal).
 
