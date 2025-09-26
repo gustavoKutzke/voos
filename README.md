@@ -26,7 +26,7 @@ Seaborn / Matplotlib
 1) Clonar o repositório
 git clone https://github.com/gustavoKutzke/voos.git
 
-Crie um arquivo chamado requirements.txt e cole o conteúdo abaixo nele:
+2.Crie um arquivo chamado requirements.txt e cole o conteúdo abaixo nele:
 
 streamlit
 
