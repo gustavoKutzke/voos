@@ -24,13 +24,17 @@ Seaborn / Matplotlib
 
 🛠️ Instalação
 1) Clonar o repositório
-git clone https://github.com/<gustavioKutzke>/<voos>.git
+git clone https://github.com/gustavoKutzke/voos.git
 
-cd <repositorio>
+Crie um arquivo chamado requirements.txt e cole o conteúdo abaixo nele:
 
-3) Dependências
+streamlit
 
-Com requirements.txt:
+pandas
+
+matplotlib
+
+seaborn
 
 pip install -r requirements.txt
 
@@ -64,6 +68,7 @@ Estrutura
 ▶️ Execução
 
 streamlit run tela.py
+
 A interface abrirá no navegador (ou use a URL exibida no terminal).
 
 📊 Funcionalidades
